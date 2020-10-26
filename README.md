@@ -89,7 +89,7 @@ We use the following communication channel:
 - Jacco van Ossenbrugge (CWI, VU University) (invited)
 - Joe Raad (VU University)
 - Kathrin Dentler (Triply)
-- Ronald Siebes (DANS)(invited, tbc)
+- Ronald Siebes (VU)
 - Sjors de Valk (Dutch Digital Heritage Network)
 - Thomas Vermaut (KNAW Humanities Cluster)
 - Jerry de Vries (DANS)
